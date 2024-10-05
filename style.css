@@ -1,0 +1,7 @@
+.Textstyling{
+    font-family: 'Courier New', Courier, monospace;
+transform: rotate(-0deg);
+text-transform: lowercase;
+text-decoration: line-through;
+text-shadow: 5px 5px 3px blue;
+}
